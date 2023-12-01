@@ -32,7 +32,7 @@ conda install -c anaconda jupyter
 conda install -c anaconda pandas
 conda install -c conda-forge onnxruntime
 conda install -c anaconda numpy
-conda install -c asmeurer z3
+pip install z3-solver
 ```
 **Fourthly, open the main.ipynb, select the correct kernal for the notebook, following instructions in the notebook for replicate the experiment**
 
