@@ -7,7 +7,9 @@ Paper: On the Soundness and Completeness of Neural Network Verification Tools
 
 **First clone the rep:**
 ```bash
-git lfs clone https://github.com/fengxxu/cge.git
+git clone https://github.com/fengxxu/cge.git
+cd cge
+unzip benchmarks.zip
 ```
 **Secondly, create a new environment, or skip to next step:**
 
