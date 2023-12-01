@@ -34,5 +34,5 @@ conda install -c conda-forge onnxruntime
 conda install -c anaconda numpy
 pip install z3-solver
 ```
-**Fourthly, open the main.ipynb, select the correct kernal for the notebook, following instructions in the notebook for replicate the experiment**
+**Lastly, open the main.ipynb, select the correct kernal for the notebook, following instructions in the notebook to replicate the experiment**
 
