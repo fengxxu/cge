@@ -1,4 +1,4 @@
-# Counterexample-Guided  Evaluation for NN verification
+# Counterexample-Guided Evaluation for Neural Network Verification
 
 Paper: On the Soundness and Completeness of Neural Network Verification Tools
 ![Structure](https://github.com/fengxxu/cge/blob/master/structure.png?raw=true)
@@ -11,7 +11,7 @@ git clone https://github.com/fengxxu/cge.git
 cd cge
 unzip benchmarks.zip
 ```
-**Secondly, create a new environment, or skip to next step:**
+**Secondly, create a new environment, or skip to the next step:**
 
 For example, using conda
 
@@ -22,11 +22,11 @@ conda activate cge
 
 **Thirdly, install the libraries:**
 
-choice 1: please note the libraries in the requirements.txt file are used for running the verifiers and CGE, 
+Choice 1: Please note the libraries in the requirements.txt file are used for running the verifiers and CGE, 
 ```bash
 conda install --file requirements.txt
 ```
-choice 2: for CGE only, run the following code.
+Choice 2: for CGE only, run the following code.
 ```bash
 conda install -c anaconda jupyter
 conda install -c anaconda pandas
@@ -34,5 +34,5 @@ conda install -c conda-forge onnxruntime
 conda install -c anaconda numpy
 pip install z3-solver
 ```
-**Lastly, open the main.ipynb, select the correct kernal for the notebook, following instructions in the notebook to replicate the experiment**
+**Lastly, open the main.ipynb, select the correct kernel for the notebook, following instructions in the notebook to replicate the experiment**
 
