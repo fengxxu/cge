@@ -1,7 +1,7 @@
 # Counterexample-Guided  Evaluation for NN verification
 
 Paper: On the Soundness and Completeness of Neural Network Verification Tools
-
+![Structure](https://github.com/fengxxu/cge/blob/master/structure.png?raw=true)
 
 ## How to run
 
