@@ -35,7 +35,7 @@ Choice 1: Please note the libraries in the requirements.txt file are used for ru
 ```bash
 conda install --file requirements.txt
 ```
-Choice 2: for CGE only, run the following commands.
+Choice 2: for CGE only, run the following commands,
 ```bash
 conda install -c anaconda jupyter
 conda install -c anaconda pandas
